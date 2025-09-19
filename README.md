@@ -1,4 +1,4 @@
-# REng-xai-cert
+# EXCLAIM
 Explainable models for Requirements and non-compliance detection
 
 Formulation
