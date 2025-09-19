@@ -1,2 +1,2 @@
 # EXCLAIM
-Explainable models for Requirements and non-compliance detection
+**EX**plainable Comp**L**iance detection with **A**rgumentative **I**nference of **M**ulti-hop reasoning
