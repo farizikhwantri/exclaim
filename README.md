@@ -36,3 +36,10 @@ python3 -m venv .venv
 source .venv/bin/activate
 pip install -U pip
 pip install -r [requirements.txt](http://_vscodecontentref_/0)
+````
+
+Dataset
+
+Zenodo DOI: 10.5281/zenodo.17752834
+Direct link: https://doi.org/10.5281/zenodo.17752834
+Please cite the DOI in any use of the dataset.
